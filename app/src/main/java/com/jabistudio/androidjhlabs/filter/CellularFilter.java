@@ -16,7 +16,6 @@ limitations under the License.
 
 package com.jabistudio.androidjhlabs.filter;
 
-import java.awt.*;
 import java.util.*;
 
 import android.graphics.Rect;

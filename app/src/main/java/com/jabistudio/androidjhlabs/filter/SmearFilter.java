@@ -17,7 +17,6 @@ limitations under the License.
 package com.jabistudio.androidjhlabs.filter;
 
 import java.util.*;
-import java.awt.*;
 
 import com.jabistudio.androidjhlabs.filter.math.ImageMath;
 
